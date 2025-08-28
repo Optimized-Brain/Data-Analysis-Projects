@@ -57,7 +57,7 @@ To run this notebook and replicate the analysis, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Optimized-Brain/Data-Analysis-Projects.git
-   cd Data-Analysis-Projects
+   cd Data-Analysis-Projects/AI Financial Market Data Analysis
    ```
 
 2. **Install the required libraries:**
