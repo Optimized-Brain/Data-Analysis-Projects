@@ -44,24 +44,33 @@ The following visualizations were used to explore the data and understand the fa
 *   **Stacked Bar Chart:** Used to compare the proportion of churned and non-churned customers within categories, specifically for the Senior Citizen feature, showing the percentage distribution.
 
 
-## Instructions
+## 7. Getting Started
 
-To run this notebook, you will need:
+To run this notebook and replicate the analysis, follow these steps:
 
-1.  **Python:** Ensure you have Python installed (version 3.6 or higher is recommended).
-2.  **Jupyter Notebook:** Install Jupyter Notebook or JupyterLab to open and execute the `.ipynb` file.
-3.  **Required Libraries:** Install the necessary Python libraries using pip:
-    ```bash
-    pip install pandas seaborn matplotlib
-    ```
-4.  **Open and Run:**
-    *   Navigate to the directory where you saved the notebook file (`.ipynb`).
-    *   Open your terminal or command prompt in that directory.
-    *   Launch Jupyter Notebook or JupyterLab by typing:
-        ```bash
-        jupyter notebook
-        # or
-        jupyter lab
-        ```
-    *   In the Jupyter interface, open the notebook file.
-    *   Execute the cells sequentially to run the analysis.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Optimized-Brain/Data-Analysis-Projects.git
+   cd Data-Analysis-Projects/Customer Churn Data Analysis
+   ```
+
+2. **Install the required libraries:**
+   It is recommended to use a virtual environment.
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Ensure you have Jupyter Notebook or JupyterLab installed.** If not, you can install it using pip:
+   ```bash
+   pip install notebook  # or pip install jupyterlab
+   ```
+
+4. **Run the Jupyter Notebook:**
+   ```bash
+   jupyter notebook  # or jupyter lab
+   ```
+   This will open the Jupyter interface in your web browser.
+
+5. **Navigate to the notebook file** (`Customer Churn Data Analysis.ipynb`) and open it.
+
+6. **Run the cells sequentially** to execute the code and see the results.
