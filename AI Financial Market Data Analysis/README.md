@@ -56,8 +56,8 @@ To run this notebook and replicate the analysis, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/Optimized-Brain/Data-Analysis-Projects.git
+   cd Data-Analysis-Projects
    ```
 
 2. **Install the required libraries:**
@@ -77,7 +77,7 @@ To run this notebook and replicate the analysis, follow these steps:
    ```
    This will open the Jupyter interface in your web browser.
 
-5. **Navigate to the notebook file** (`your_notebook_name.ipynb`) and open it.
+5. **Navigate to the notebook file** (`AI Financial Market Data Analysis.ipynb`) and open it.
 
 6. **Run the cells sequentially** to execute the code and see the results.
 
